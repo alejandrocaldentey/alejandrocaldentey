@@ -48,4 +48,4 @@ Medallion architecture · Data modelling · Data governance & quality (Purview, 
 
 ---
 
-📫 Let's talk: [LinkedIn](LINKEDIN_URL_TBD) · [datalethia.com](https://datalethia.com)
+📫 Let's talk: [datalethia.com](https://datalethia.com)
