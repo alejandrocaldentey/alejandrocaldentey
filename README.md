@@ -48,4 +48,4 @@ Medallion architecture · Data modelling · Data governance & quality (Purview, 
 
 ---
 
-📫 Let's talk: [datalethia.com](https://datalethia.com)
+📫 Let's talk: [LinkedIn](https://www.linkedin.com/in/alejandro-caldentey-datalethia/) · [datalethia.com](https://datalethia.com)
